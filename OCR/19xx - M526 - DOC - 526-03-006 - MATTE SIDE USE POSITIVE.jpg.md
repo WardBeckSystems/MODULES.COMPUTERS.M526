@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 57 in 45 lines: 4957 · +0,000 · 0.005 · +0.009 · 2.246 · 2.360 · NOTES: · Tolerances: · =+/-.015 · xxx=+/-.005 · 0.057 · TYP_
 - **Title block:** (254, 32)–(425, 100) mm: ISSUE DATE · REVISION · APP · WARD-BECK SYSTEMS · WBSS · DRN: · BD   2 /87 · ENG. MRW 2/87 · M526 · Front Panel Display Screens · CKD; · APP; · SCALE DISC NO: M5oo-1 · 526-03-006 · ISSUE · 1/1 CODE: M
 
-Every curve, box, word and wire group: [19xx - M526 - DOC - 526-03-006 - MATTE SIDE USE POSITIVE (traced).json](../MECHANICAL/19xx%20-%20M526%20-%20DOC%20-%20526-03-006%20-%20MATTE%20SIDE%20USE%20POSITIVE%20(traced).json) (the CAD file: `19xx - M526 - DOC - 526-03-006 - MATTE SIDE USE POSITIVE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M526 - DOC - 526-03-006 - MATTE SIDE USE POSITIVE (traced).json](../MECHANICAL/19xx%20-%20M526%20-%20DOC%20-%20526-03-006%20-%20MATTE%20SIDE%20USE%20POSITIVE%20%28traced%29.json) (the CAD file: `19xx - M526 - DOC - 526-03-006 - MATTE SIDE USE POSITIVE (traced).dxf`).
 
 ## Full text
 

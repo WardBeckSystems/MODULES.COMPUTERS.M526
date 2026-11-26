@@ -35,7 +35,7 @@ Wiki page: [M526](../../../../PAGES/M526.md)
 - **Words (OCR):** 57 in 45 lines: 4957 · +0,000 · 0.005 · +0.009 · 2.246 · 2.360 · NOTES: · Tolerances: · =+/-.015 · xxx=+/-.005 · 0.057 · TYP
 - **Title block:** (254, 32)–(425, 100) mm: ISSUE DATE · REVISION · APP · WARD-BECK SYSTEMS · WBSS · DRN: · BD   2 /87 · ENG. MRW 2/87 · M526 · Front Panel Display Screens · CKD: · APP. · SCALE DISC NO: M5oo-1 · 526-03-006 · ISSUE · 1/1 CODE: M
 
-Every curve, box, word and wire group: [1987 - 526-03-006 - Front Panel Display Screens - DRN BD - ENG MRW - ISS 1 (traced).json](../MECHANICAL/1987%20-%20526-03-006%20-%20Front%20Panel%20Display%20Screens%20-%20DRN%20BD%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1987 - 526-03-006 - Front Panel Display Screens - DRN BD - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 526-03-006 - Front Panel Display Screens - DRN BD - ENG MRW - ISS 1 (traced).json](../MECHANICAL/1987%20-%20526-03-006%20-%20Front%20Panel%20Display%20Screens%20-%20DRN%20BD%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 526-03-006 - Front Panel Display Screens - DRN BD - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 
