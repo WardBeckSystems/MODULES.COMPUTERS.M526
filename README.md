@@ -1,6 +1,6 @@
 # M526 · Computers
 
-Ward-Beck Systems M526, 1987|20. Wiki page: [M526 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M526.html)
+Ward-Beck Systems M526, 1987|20. Wiki page: [M526 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMPUTERS.M526/)
 
 | Folder | What is in it | Files |
 |---|---|---|
